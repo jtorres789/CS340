@@ -1,2 +1,12 @@
 # CS340
 CS340 Class
+
+**How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+_To make programs that are easy to keep up, understand, and change, follow good rules like breaking your code into parts, using clear names, explaining what your code does, keeping your style consistent, dealing with mistakes, testing your code, and keeping track of changes. When you use parts you can use again, like the CRUD Python module, it makes handling databases in Project Two easier and lets you use it again in other projects. By doing these things, you'll end up with code that's easier to handle, read, and adjust, making your work go smoother and your software better._
+
+****How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+_When you're working on projects for clients like Grazioso Salvare, it's important to understand what you need, figure out how to solve your problems, add in things like creating, reading, updating, and deleting information, test everything really well, and then explain everything clearly. Real-life projects are different from school ones because they focus on what you want, bringing different parts together, and making sure everything works well in the long run. In the future, it's about listening carefully to what's needed, planning how information should be organized, doing things the right way, testing everything thoroughly, and making sure everyone knows how to use and take care of it all._
+
+
+**What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+_Computer scientists work on solving problems using computers, and their work on projects like database and dashboard development can significantly improve company operations, streamlining processes, providing insights, automating tasks, and ultimately enhancing competitiveness in the market._
